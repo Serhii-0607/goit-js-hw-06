@@ -1,1 +1,1 @@
-second JS homework
+sixth JS homework
